@@ -1,0 +1,45 @@
+{
+    "geometry": [
+        1920,
+        219,
+        1321,
+        794
+    ],
+    "engine": "DeepSeek",
+    "ocr_engine": "EasyOCR",
+    "interval": 3.0,
+    "silent": true,
+    "aggregate": false,
+    "auto_update": true,
+    "ui_lang": "RU",
+    "src_lang": "English",
+    "target_lang": "Russian",
+    "on_top": false,
+    "opacity": 100,
+    "theme": "Dark (Default)",
+    "retroarch_pause": true,
+    "translation_areas": [
+        [
+            1927,
+            1038,
+            1907,
+            1048
+        ]
+    ],
+    "areas_enabled": [
+        true
+    ],
+    "exclusion_zones": [],
+    "exclusion_zones_enabled": [],
+    "hotkeys": {
+        "now_btn": [
+            "X",
+            "Z"
+        ],
+        "clear_btn": [
+            "C",
+            "V"
+        ]
+    },
+    "tts_enabled": false
+}

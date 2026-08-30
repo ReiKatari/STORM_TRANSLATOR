@@ -1,0 +1,11 @@
+PyQt6>=6.4.0
+PyQt6-Fluent-Widgets
+
+opencv-python>=4.7.0
+Pillow>=9.5.0
+numpy>=1.24.0
+deep-translator>=1.11.0
+translators>=5.8.0
+easyocr>=1.7.0
+pytesseract>=0.3.10
+mss

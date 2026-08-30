@@ -31,3 +31,13 @@ Thumbs.db
 Desktop.ini
 *.log
 *.tmp
+
+# Additional ignores
+deepseek_key.txt
+.env
+*.png
+Tesseract-OCR/
+
+Files/
+Assembling/
+
